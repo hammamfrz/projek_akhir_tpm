@@ -24,7 +24,7 @@ class TestiPage extends StatelessWidget {
               height: 20,
             ),
             Text(
-              'Saya merasa sangat senang dan puas dengan pembelajaran yang diberikan oleh dosen saya, karena dosen saya sangat baik dan mengerti dengan mahasiswanya',
+              'Saya merasa sangat senang dan puas dengan pembelajaran yang diberikan oleh dosen saya, Bapak Bagus Muhammad Akbar karena beliau sangat baik dan mengerti dengan mahasiswanya',
             ),
             SizedBox(
               height: 20,
@@ -37,7 +37,7 @@ class TestiPage extends StatelessWidget {
               height: 20,
             ),
             Text(
-              'Saya berpesan kepada dosen saya agar terus memberikan pembelajaran yang baik dan berkualitas kepada mahasiswanya',
+              'Saya berpesan kepada Bapak Bagus Muhammad Akbar agar terus memberikan pembelajaran yang baik dan berkualitas kepada mahasiswanya',
             ),
           ]
         ),

@@ -7,13 +7,6 @@ class MoneyConversion extends StatefulWidget {
   _MoneyConversionState createState() => _MoneyConversionState();
 }
 
-// make me 3 converter for IDR to USD, IDR to EUR, IDR to JPY
-// 1. make a dropdown button for the currency input and output
-// 2. make a textfield for the input
-// 3. make a textfield for the output
-// 4. make a button to convert
-// 5. make a function to convert
-
 class _MoneyConversionState extends State<MoneyConversion> {
   late double _input;
   late double _output;
